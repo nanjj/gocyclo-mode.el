@@ -1,1 +1,1 @@
-# gocyclo-mode.el
+# gocyclo.el
